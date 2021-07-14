@@ -1,2 +1,2 @@
 # Robot-Arm-Assembly
-A robot arm assembly by using Solidworks software. 
+The assembly of this robot arm is done by Solidworks software. 
